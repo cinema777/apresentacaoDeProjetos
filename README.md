@@ -1,12 +1,5 @@
 <h1 align=center> Rodolfo Felis </h1>
 
-- 👋 Hi, I’m Rodolfo Felis
-- 👀 I’m interested in Games and Technolog
-  
-```
-Student Dev
-```
-
 <p align="center">
 <img src=https://img.shields.io/badge/Front%20End-Em%20Desenvolvimento-blue />
 <img src=https://img.shields.io/badge/Back%20End-Em%20Desenvolvimento-blue />
@@ -18,6 +11,14 @@ Student Dev
 
 </div>
 
+> Oi, meu nome é Rodolfo Felis
+- @daianefelis 💍
+> Tuntz Tunts 🎶🎵
+- Amante de Música, Tecnoliga e Games 🎮
+  
+```
+Student Dev
+```
 <!---
 cinema777/cinema777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
