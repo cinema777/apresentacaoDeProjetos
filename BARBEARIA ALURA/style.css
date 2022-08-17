@@ -288,7 +288,7 @@ th, td{
 
 footer{
     text-align: center;
-    background: url("bg.jpg");
+    background: url("imagens/bg.jpg");
     padding: 30px;
 }
 
@@ -367,6 +367,5 @@ footer{
    table{
     margin: auto auto 40px;
    }
-    
-    
+        
 }
